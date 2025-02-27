@@ -8,7 +8,7 @@ This is an example of a **.NET 9 Web API** with a **frontend using HTML, TypeScr
 - 📦 **Uses `npx tsc`** for TypeScript compilation.
 - 📂 **Project structure follows best practices** for separating frontend & backend.
 
-## 🚀 Getting Started## 🚀
+## 🚀 Getting Started
 
 ### **1️⃣ Prerequisites**
 - Install **Node.js** (LTS recommended) 👉 [Download](https://nodejs.org/)
