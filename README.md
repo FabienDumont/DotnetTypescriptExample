@@ -21,13 +21,13 @@ npm install
 ```
 
 ### **3️⃣ Running the Backend**
-Inside DotnetTypescriptExample.Api/, start the API:
+Inside `DotnetTypescriptExample.Api/`, start the API:
 ```console
 dotnet run
 ```
 
 ### **4️⃣ Compiling the Frontend**
-Inside DotnetTypescriptExample.Front/, compile TypeScript using Gulp:
+Inside `DotnetTypescriptExample.Front/`, compile TypeScript using Gulp:
 gulp
 
 ## 📜 License
