@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<div id="api-status"></div>
+<div id="api-message"></div>
+<div id="message"></div>
+<div>
+  Compiler: <input id="compiler" value="TypeScript"
+                   onkeyup="document.getElementById('message').innerText = sayHello()"/><br/>
+  Framework: <input id="framework" value="ASP.NET" onkeyup="document.getElementById('message').innerText = sayHello()"/>
+</div>
+<script src="scripts/app.js"></script>
+</body>
+</html>

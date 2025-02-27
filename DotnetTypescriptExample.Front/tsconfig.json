@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM"],
+    "outDir": "./wwwroot/scripts"
+  },
+  "include": ["./**/*.ts"],
+  "compileOnSave": true
+}

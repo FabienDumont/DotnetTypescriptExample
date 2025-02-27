@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetTypescriptExample.Front", "DotnetTypescriptExample.Front\DotnetTypescriptExample.Front.csproj", "{402864B1-6095-4592-831D-1B69B2AB43E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetTypescriptExample.Api", "DotnetTypescriptExample.Api\DotnetTypescriptExample.Api.csproj", "{96907F5A-A196-40A8-A3F4-ECC3D0DE14EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402864B1-6095-4592-831D-1B69B2AB43E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402864B1-6095-4592-831D-1B69B2AB43E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402864B1-6095-4592-831D-1B69B2AB43E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402864B1-6095-4592-831D-1B69B2AB43E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96907F5A-A196-40A8-A3F4-ECC3D0DE14EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96907F5A-A196-40A8-A3F4-ECC3D0DE14EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96907F5A-A196-40A8-A3F4-ECC3D0DE14EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96907F5A-A196-40A8-A3F4-ECC3D0DE14EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
