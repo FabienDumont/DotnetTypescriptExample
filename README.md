@@ -29,7 +29,13 @@ dotnet run
 ### **4️⃣ Compiling the Frontend**
 Inside `DotnetTypescriptExample.Front/`, compile TypeScript using Gulp:
 ```console
-gulp
+npx gulp
+```
+
+### **5️⃣ Running the Frontend**
+Inside `DotnetTypescriptExample.Front/`, start the front end:
+```console
+dotnet run
 ```
 
 ## 📜 License
