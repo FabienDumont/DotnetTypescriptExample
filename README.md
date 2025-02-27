@@ -28,7 +28,9 @@ dotnet run
 
 ### **4️⃣ Compiling the Frontend**
 Inside `DotnetTypescriptExample.Front/`, compile TypeScript using Gulp:
+```console
 gulp
+```
 
 ## 📜 License
 This project is MIT Licensed.
