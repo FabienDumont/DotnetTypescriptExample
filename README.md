@@ -37,6 +37,8 @@ Inside `DotnetTypescriptExample.Front/`, start the front end:
 ```console
 dotnet run
 ```
+This will serve the frontend from `wwwroot/`, accessible at:
+`https://localhost:7225`
 
 ## 📜 License
 This project is MIT Licensed.
